@@ -58,8 +58,6 @@ This README outlines the chosen parameters, accuracy results, and observed outco
 ### Best Model: **Random Forest**
 The combination of multiple decision trees in Random Forest makes it the most reliable model for spam detection, offering the best balance between accuracy and generalization.
 
----
-By **Jashanpreet Singh**
-S223028729  
-SIT 384 – Task 6.3HD
+![image](https://github.com/user-attachments/assets/75c7fbff-bda4-4918-92be-5716afc7f367)
+
 
